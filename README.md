@@ -1,0 +1,2 @@
+# Audio_Summary_for_Slack
+Slackアプリ用に音声ファイルを投稿したら要約が投稿されるアプリを作成。
